@@ -16,7 +16,7 @@
         <mxCell id="kj8qoA-xbc1wfrMlvHZg-4" value="Vérifier les réponses" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kj8qoA-xbc1wfrMlvHZg-5" value="Sauvegarder les progression" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kj8qoA-xbc1wfrMlvHZg-5" value="Sauvegarder les progressions" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="baNrg_bLgTo3lkInpuYU-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -40,6 +40,18 @@
         <mxCell id="baNrg_bLgTo3lkInpuYU-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.009;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kj8qoA-xbc1wfrMlvHZg-5" target="kj8qoA-xbc1wfrMlvHZg-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="250" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="baNrg_bLgTo3lkInpuYU-13" value="Consulter les statistiques" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="baNrg_bLgTo3lkInpuYU-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="baNrg_bLgTo3lkInpuYU-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="400" as="sourcePoint" />
             <mxPoint x="440" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="130" />
