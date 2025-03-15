@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_YRt0mT5l6OJ9YUAdkki-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="54" y="80" width="360" height="350" as="geometry" />
+          <mxGeometry x="54" y="80" width="360" height="496" as="geometry" />
         </mxCell>
         <mxCell id="kj8qoA-xbc1wfrMlvHZg-1" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="_YRt0mT5l6OJ9YUAdkki-16" vertex="1">
           <mxGeometry y="90" width="30" height="60" as="geometry" />
@@ -90,6 +90,9 @@
             <mxPoint x="305" y="40" as="sourcePoint" />
             <mxPoint x="476" y="115" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-49" value="Paramétrer les notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_YRt0mT5l6OJ9YUAdkki-16">
+          <mxGeometry x="106" y="466" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kj8qoA-xbc1wfrMlvHZg-2" value="S&#39;inscrire / Se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="121" y="10" width="220" height="30" as="geometry" />
@@ -192,6 +195,21 @@
             <mxPoint x="381" y="394.5" as="sourcePoint" />
             <mxPoint x="481" y="389.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-47" value="Rejoindre un défi d&#39;équipe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="449" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-48" value="Paramétrer les notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="540" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-50" value="Paramétrer les notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="585" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-51" value="Paramétrer les notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-52" value="Rejoindre un défi quotidien" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="412" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
