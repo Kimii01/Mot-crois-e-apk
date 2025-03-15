@@ -88,6 +88,12 @@
         <mxCell id="baNrg_bLgTo3lkInpuYU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="_YRt0mT5l6OJ9YUAdkki-16" source="kj8qoA-xbc1wfrMlvHZg-3" target="kj8qoA-xbc1wfrMlvHZg-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-30" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.032;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_YRt0mT5l6OJ9YUAdkki-16" target="_YRt0mT5l6OJ9YUAdkki-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="305" y="40" as="sourcePoint" />
+            <mxPoint x="476" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kj8qoA-xbc1wfrMlvHZg-2" value="S&#39;inscrire / Se connecter" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="10" width="220" height="30" as="geometry" />
         </mxCell>
