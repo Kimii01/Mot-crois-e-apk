@@ -241,6 +241,51 @@
             <mxPoint x="70" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-71" value="Créer un grille de mots croisés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-72" value="Modifier une grille de mots croisés&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Cr%C3%A9er%20un%20grille%20de%20mot%20crois%C3%A9s%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22660%22%20width%3D%22230%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-73" value="Gérer les utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-74" value="Définir des indices" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="668" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-75" value="Ajouter des mots&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="620" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-76" value="Supprimer un grille" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="771" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-77" value="Modifier des mots" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="725" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-78" value="Envoyer un message aux utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="876" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-79" value="Suspendre un compte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="827" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-80" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_YRt0mT5l6OJ9YUAdkki-75">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="681" as="sourcePoint" />
+            <mxPoint x="652" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-81" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_YRt0mT5l6OJ9YUAdkki-77">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="771" as="sourcePoint" />
+            <mxPoint x="560" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-82" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="_YRt0mT5l6OJ9YUAdkki-79">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="430" y="860" as="sourcePoint" />
+            <mxPoint x="561" y="834" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
