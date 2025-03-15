@@ -112,16 +112,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_YRt0mT5l6OJ9YUAdkki-17" value="choisir un niveau de difficulté" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="220" height="30" as="geometry" />
+          <mxGeometry x="530" y="80" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_YRt0mT5l6OJ9YUAdkki-18" value="Remplir les cases" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="113" width="220" height="30" as="geometry" />
+          <mxGeometry x="530" y="112" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_YRt0mT5l6OJ9YUAdkki-19" value="Réinitialiser le mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="148" width="220" height="30" as="geometry" />
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-19" value="Obtenir des indices" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="145" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_YRt0mT5l6OJ9YUAdkki-20" value="Réinitialiser le mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="184" width="220" height="30" as="geometry" />
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-20" value="Utiliser un joker" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="180" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_YRt0mT5l6OJ9YUAdkki-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_YRt0mT5l6OJ9YUAdkki-18" target="_YRt0mT5l6OJ9YUAdkki-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="141" as="sourcePoint" />
+            <mxPoint x="439" y="108" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="113" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
